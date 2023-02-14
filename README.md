@@ -37,7 +37,10 @@ Full-stack application to manage memberships for a local charity.\
 
 ### Description
 
-Full-stack phone application providing visibility on how your local MP is voting with the opportunity to give feedback. Two week group project.
+Full-stack phone application providing visibility on how your local MP is voting with the opportunity to give feedback. Two week group project.\
+https://user-images.githubusercontent.com/105917288/218760721-fa9946f0-4f77-4c72-b898-1799636cd447.mp4
+
+[Code repository](https://github.com/tomallens/votewatch) (cmd/window + click to open in a new tab)
 
 ### Features
 
@@ -60,13 +63,6 @@ React Native, Express, Node.js, PostgreSQL, Sequelize, Jest
 - Building phone app interfaces.
 - Utilising external APIs.
 - Implementing notifications.
-
-### Application
-
-Video
-
-https://user-images.githubusercontent.com/105917288/218760721-fa9946f0-4f77-4c72-b898-1799636cd447.mp4
-
 
 [Code repository](https://github.com/tomallens/votewatch) (cmd/window + click to open in a new tab)
 
