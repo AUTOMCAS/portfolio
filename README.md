@@ -15,9 +15,6 @@ Simple app allowing a user to deposit, withdraw and print a statement with the c
 \
 **[Gilded Rose tech test](#gilded-rose)** (JavaScript, Jest)\
 A fantasy shop keeping app. This tech test focuses on writing tests, refactoring existing code and extend it to be clean and adaptable.\
-\
-**[Bowling Challenge](#bowling)** (JavaScript, Jest)\
-A bowling scorecard which continuously calculates the score for each frame of the deceptively complex game of bowling.\
 
 # <a name="sheddington">Sheddington Membership Manager</a>
 
@@ -68,13 +65,13 @@ React Native, Express, Node.js, PostgreSQL, Sequelize, Jest
 
 ## <a name="grumblebook">Grumblebook</a>
 
-
-https://user-images.githubusercontent.com/105917288/218777793-dd974588-7964-47ac-949c-d220282c42c8.mp4
-
-
 ### Description
 
 Full stack social media web application for those who like to grumble. A two week, 6 member group project.\
+
+https://user-images.githubusercontent.com/105917288/218777793-dd974588-7964-47ac-949c-d220282c42c8.mp4
+
+[Code repository](https://github.com/AUTOMCAS/grumbleBook) (cmd/window + click to open in a new tab)
 
 ### Features
 
@@ -100,40 +97,48 @@ React, Node.js, Express, MongoDB, Firebase, Jest, Cypress
 
 ### Description
 
+Simple app allowing a user to deposit, withdraw and print a statement with the command line.\
+![example](https://github.com/AUTOMCAS/bank_tech_test/blob/main/misc/bank-example.png?raw=true)  
+[Code repository](https://github.com/AUTOMCAS/bank_tech_test) (cmd/window + click to open in a new tab)
+
 ### Features
 
--
+- Emphasis on TDD and writing clean code.
+- Command line based return.
+- Make a deposit, withdrawal and print an updated statement.
 
 ### Tech stack
 
+JavaScript, Jest.
+
 ### Key Challenges
 
--
+- Developing using TDD.
+- Applying SOLID and OOP principles.
+- Maintaining clean code.
 
 ## <a name="gilded-rose">Gilded Rose tech test</a>
 
 ### Description
 
-### Features
-
--
-
-### Tech stack
-
-### Key Challenges
-
--
-
-## <a name="bowling">Bowling Challenge</a>
-
-### Description
+A fantasy shop keeping app. This tech test focuses on writing tests, refactoring existing code and extend it to be clean and adaptable.\
+[Code repository](https://github.com/AUTOMCAS/gilded_rose_tech_test) (cmd/window + click to open in a new tab)
 
 ### Features
 
--
+- Refactoring existing code.
+- Writing tests to ensure original functionality is maintained.
+- Applying SOLID and OOP principles.
+- Easy to extend for future items.
+- Maintaining clean code.
 
 ### Tech stack
 
+JavaScript, Jest
+
 ### Key Challenges
 
--
+- Understanding another's code.
+- Refactoring another's code.
+- Ensuring good test coverage.
+- Making code easy to extend.
