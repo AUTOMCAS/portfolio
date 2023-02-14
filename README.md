@@ -2,7 +2,7 @@
 
 A collection of example projects I have worked on.
 
-# <a name="sheddington">Sheddington Membership Manager</a>
+# [Sheddington Membership Manager]()
 
 ### Description
 
@@ -16,7 +16,7 @@ Full-stack application to manage memberships for a local charity.\
 
 [Code repository]() (cmd/window + click to open in a new tab)
 
-## <a name="votewatch">Votewatch</a>
+# [Votewatch](https://github.com/tomallens/votewatch)
 
 Full-stack phone application providing visibility on how your local MP is voting with the opportunity to give feedback. Two week group project.\
 \
@@ -47,7 +47,7 @@ React Native, Express, Node.js, PostgreSQL, Sequelize, Jest
 - Utilising external APIs.
 - Implementing notifications.
 
-## <a name="grumblebook">Grumblebook</a>
+# [Grumblebook](https://github.com/AUTOMCAS/grumbleBook)
 
 Full stack social media web application for those who like to grumble. A two week, 6 member group project.\
 \
@@ -75,7 +75,7 @@ React, Node.js, Express, MongoDB, Firebase, Jest, Cypress
 - Understanding tokens and user management.
 - Collaborating and reflecting using an Agile process.
 
-## <a name="bank">Bank tech test</a>
+# [Bank tech test](https://github.com/AUTOMCAS/bank_tech_test)
 
 Simple app allowing a user to deposit, withdraw and print a statement with the command line.\
 \
@@ -99,7 +99,7 @@ JavaScript, Jest.
 - Applying SOLID and OOP principles.
 - Maintaining clean code.
 
-## <a name="gilded-rose">Gilded Rose tech test</a>
+# [Gilded Rose tech test](https://github.com/AUTOMCAS/gilded_rose_tech_test)
 
 A fantasy shop keeping app. This tech test focuses on writing tests, refactoring existing code and extend it to be clean and adaptable.\
 \
