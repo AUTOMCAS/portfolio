@@ -37,12 +37,9 @@ Full-stack application to manage memberships for a local charity.\
 
 ### Description
 
-Full-stack phone application providing visibility on how your local MP is voting with the opportunity to give feedback. Two week group project.\
-
-
+Full-stack phone application providing visibility on how your local MP is voting with the opportunity to give feedback. Two week group project.
 
 https://user-images.githubusercontent.com/105917288/218761739-7f4292dd-0c4d-4cd5-8d8a-d2fe47bec7b1.mp4
-
 
 [Code repository](https://github.com/tomallens/votewatch) (cmd/window + click to open in a new tab)
 
