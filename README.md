@@ -89,6 +89,7 @@ React, Node.js, Express, MongoDB, Firebase, Jest, Cypress
 
 - Understanding and building on an existing code base.
 - Learning React, including state and hooks.
+- Implementing asynchronous functionality.
 - Understanding tokens and user management.
 - Collaborating and reflecting using an Agile process.
 
