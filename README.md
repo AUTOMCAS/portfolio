@@ -2,19 +2,36 @@
 
 A collection of example projects I have worked on.
 
-# [Sheddington Membership Manager]()
+# [Sheddington Membership Manager](https://github.com/AUTOMCAS/sheddington-membership-manager)
 
-### Description
+**CURRENTLY UNDER DEVELOPMENT**
 
 Full-stack application to manage memberships for a local charity.\
+\
+**[Code repository](https://github.com/AUTOMCAS/sheddington-membership-manager) (cmd/window + click to open in a new tab)**
+\
+![Member list](https://github.com/AUTOMCAS/-sheddington-membership-manager/blob/main/misc/screenshots/view-members.png)
+\
+![Member validation](https://github.com/AUTOMCAS/-sheddington-membership-manager/blob/main/misc/screenshots/member-validation.png)
+
+### Features
+
+- Full stack.
+- RESTFUL API for creating, reading, updating, deleting members.
+- TDD using Jest and Cypress.
+- Simplistic UI.
+- Validation front and backend.
 
 ### Tech stack
 
+Typescript, React, JSX, CSS, Node.js, Sequelize, PostgreSQL, Jest, Cypress
+
 ### Challenges
 
-### Application
-
-[Code repository]() (cmd/window + click to open in a new tab)
+- Working with a real brief.
+- Communicating technical concepts with simple language.
+- Adapting to feedback and changing requirements.
+- Learning Typescript and implementing types.
 
 # [Votewatch](https://github.com/tomallens/votewatch)
 
