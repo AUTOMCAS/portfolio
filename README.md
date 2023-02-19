@@ -26,12 +26,40 @@ Full-stack application to manage memberships for a local charity.\
 
 Typescript, React, JSX, CSS, Node.js, Sequelize, PostgreSQL, Jest, Cypress
 
-### Challenges
+### Key Challenges
 
 - Working with a real brief.
 - Communicating technical concepts with simple language.
 - Adapting to feedback and changing requirements.
 - Learning Typescript and implementing types.
+
+# [Dad jokes](https://github.com/AUTOMCAS/dadjokes)
+
+Simple project to use an external API to display a random joke on the screen every click.\
+\
+**[Code repository](https://github.com/AUTOMCAS/dadjokes) (cmd/window + click to open in a new tab)**
+
+**[Publshed page](https://automcas.github.io/dadjokes/) (cmd/window + click to open in a new tab)**
+
+![overview](https://raw.githubusercontent.com/AUTOMCAS/dadjokes/main/misc/screenshots/overview.png)
+
+### Features
+
+- Published with Github pages.
+- e2e and component testing.
+- Utilises external API.
+- Simple CSS.
+
+### Tech stack
+
+Typescript, React, Cypress
+
+### Key Challenges
+
+- Test driven development.
+- Working with an external API.
+- Short time frame.
+- Styling.
 
 # [Votewatch](https://github.com/tomallens/votewatch)
 
@@ -74,9 +102,9 @@ https://user-images.githubusercontent.com/105917288/218777793-dd974588-7964-47ac
 
 ### Features
 
-- Full stack
-- RESTFful API
-- User management with use of tokens
+- Full stack.
+- RESTFful API.
+- User management with use of tokens.
 - A user's posts and comments are stored on relational database.
 - "Likes" can be changed and are updated in the database.
 - Image management using Firebase.
