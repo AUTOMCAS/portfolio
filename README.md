@@ -47,7 +47,6 @@ The backend API of a planned full-stack application to help understand stress an
   - Creation of User accounts with Bcrypt password encription.
   - Creation, Modification, Reading and Deletion of a user's "Stress bucket", representing stress level.
   - Events that alter a user's stress level.
-  - 
 - JWT for payload encryption.
 - Tests usin JUnit.
 
