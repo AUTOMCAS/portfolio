@@ -41,6 +41,12 @@ The backend API of a planned full-stack application to help understand stress an
 \
 **[Code repository](https://github.com/AUTOMCAS/stress-bucket-api) (CMD/CTRL + click to open in a new tab)**
 
+Planning diagram
+![planning](https://user-images.githubusercontent.com/105917288/226205604-25f457b3-e378-401a-aa71-cd5aec21776b.jpg)
+
+Endpoints accessed through Postman with JWT token Header
+![Postman requests](https://user-images.githubusercontent.com/105917288/226205652-9e8614d4-70be-4024-929f-20b2cc909d4f.png)
+
 
 ### Features
 - Relational database to manage:
@@ -49,7 +55,6 @@ The backend API of a planned full-stack application to help understand stress an
   - Events that alter a user's stress level.
 - JWT for payload encryption.
 - Tests usin JUnit.
-
 
 ### Tech stack
 
