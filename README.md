@@ -8,6 +8,7 @@ A collection of example projects I have worked on.
 
 Full-stack application to manage memberships for a local charity.\
 \
+<a href="https://github.com/AUTOMCAS/sheddington-membership-manager" target="_blank">Code repository</a>
 **[Code repository](https://github.com/AUTOMCAS/sheddington-membership-manager) (cmd/window + click to open in a new tab)**
 \
 ![Member list](https://github.com/AUTOMCAS/-sheddington-membership-manager/blob/main/misc/screenshots/view-members.png)
