@@ -35,16 +35,14 @@ Typescript, React, JSX, CSS, Node.js, Sequelize, PostgreSQL, Jest, Cypress
 
 # [Stress Bucket stress visualisation tool - Backend RESTful API](https://github.com/AUTOMCAS/stress-bucket-api)
 
-**CURRENTLY UNDER DEVELOPMENT**
-
 The backend API of a planned full-stack application to help understand stress and wellbeing using the stress bucket visualisation metaphor. \
 \
 **[Code repository](https://github.com/AUTOMCAS/stress-bucket-api) (CMD/CTRL + click to open in a new tab)**
 
-Planning diagram
+Planning diagram     
 ![planning](https://user-images.githubusercontent.com/105917288/226205604-25f457b3-e378-401a-aa71-cd5aec21776b.jpg)
 
-Endpoints accessed through Postman with JWT token Header
+Endpoints accessed through Postman with JWT token Header     
 ![Postman requests](https://user-images.githubusercontent.com/105917288/226205652-9e8614d4-70be-4024-929f-20b2cc909d4f.png)
 
 
