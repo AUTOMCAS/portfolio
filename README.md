@@ -28,10 +28,39 @@ Typescript, React, JSX, CSS, Node.js, Sequelize, PostgreSQL, Jest, Cypress
 
 ### Key Challenges
 
-- Working with a real brief.
+- Working with a real brief and clients.
 - Communicating technical concepts with simple language.
 - Adapting to feedback and changing requirements.
 - Learning Typescript and implementing types.
+
+# [Stress Bucket stress visualisation tool - Backend RESTful API](https://github.com/AUTOMCAS/stress-bucket-api)
+
+**CURRENTLY UNDER DEVELOPMENT**
+
+The backend API of a planned full-stack application to help understand stress and wellbeing using the stress bucket visualisation metaphor. \
+\
+**[Code repository](https://github.com/AUTOMCAS/stress-bucket-api) (CMD/CTRL + click to open in a new tab)**
+
+
+### Features
+- Relational database to manage:
+  - Creation of User accounts with Bcrypt password encription.
+  - Creation, Modification, Reading and Deletion of a user's "Stress bucket", representing stress level.
+  - Events that alter a user's stress level.
+  - 
+- JWT for payload encryption.
+- Tests usin JUnit.
+
+
+### Tech stack
+
+Spring Boot, Java, PostgreSQL, JUnit.
+
+### Key Challenges
+
+- Developing and testing with an unfamiliar lanuage (Java).
+- Design and creation of relational database.
+- Understanding and adhering to design patterns. 
 
 # [Dad jokes](https://github.com/AUTOMCAS/dadjokes)
 
