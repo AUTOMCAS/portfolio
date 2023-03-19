@@ -8,8 +8,7 @@ A collection of example projects I have worked on.
 
 Full-stack application to manage memberships for a local charity.\
 \
-<a href="https://github.com/AUTOMCAS/sheddington-membership-manager" target="_blank">Code repository</a>
-**[Code repository](https://github.com/AUTOMCAS/sheddington-membership-manager) (cmd/window + click to open in a new tab)**
+**[Code repository](https://github.com/AUTOMCAS/sheddington-membership-manager) (CMD/CTRL + click to open in a new tab)**
 \
 ![Member list](https://github.com/AUTOMCAS/-sheddington-membership-manager/blob/main/misc/screenshots/view-members.png)
 \
@@ -38,9 +37,9 @@ Typescript, React, JSX, CSS, Node.js, Sequelize, PostgreSQL, Jest, Cypress
 
 Simple project to use an external API to display a random joke on the screen every click.\
 \
-**[Code repository](https://github.com/AUTOMCAS/dadjokes) (cmd/window + click to open in a new tab)**
+**[Code repository](https://github.com/AUTOMCAS/dadjokes) (CMD/CTRL + click to open in a new tab)**
 
-**[Publshed page](https://automcas.github.io/dadjokes/) (cmd/window + click to open in a new tab)**
+**[Publshed page](https://automcas.github.io/dadjokes/) (CMD/CTRL + click to open in a new tab)**
 
 ![overview](https://raw.githubusercontent.com/AUTOMCAS/dadjokes/main/misc/screenshots/overview.png)
 
@@ -66,7 +65,7 @@ Typescript, React, Cypress
 
 Full-stack phone application providing visibility on how your local MP is voting with the opportunity to give feedback. Two week group project.\
 \
-**[Code repository](https://github.com/tomallens/votewatch) (cmd/window + click to open in a new tab)**
+**[Code repository](https://github.com/tomallens/votewatch) (CMD/CTRL + click to open in a new tab)**
 
 https://user-images.githubusercontent.com/105917288/218761739-7f4292dd-0c4d-4cd5-8d8a-d2fe47bec7b1.mp4
 
@@ -97,7 +96,7 @@ React Native, Express, Node.js, PostgreSQL, Sequelize, Jest
 
 Full stack social media web application for those who like to grumble. A two week, 6 member group project.\
 \
-**[Code repository](https://github.com/AUTOMCAS/grumbleBook) (cmd/window + click to open in a new tab)**
+**[Code repository](https://github.com/AUTOMCAS/grumbleBook) (CMD/CTRL + click to open in a new tab)**
 
 https://user-images.githubusercontent.com/105917288/218777793-dd974588-7964-47ac-949c-d220282c42c8.mp4
 
@@ -126,7 +125,7 @@ React, Node.js, Express, MongoDB, Firebase, Jest, Cypress
 
 Simple app allowing a user to deposit, withdraw and print a statement with the command line.\
 \
-**[Code repository](https://github.com/AUTOMCAS/bank_tech_test) (cmd/window + click to open in a new tab)**\
+**[Code repository](https://github.com/AUTOMCAS/bank_tech_test) (CMD/CTRL + click to open in a new tab)**\
 \
 ![example](https://github.com/AUTOMCAS/bank_tech_test/blob/main/misc/bank-example.png?raw=true)
 
@@ -150,7 +149,7 @@ JavaScript, Jest.
 
 A fantasy shop keeping app. This tech test focuses on writing tests, refactoring existing code and extend it to be clean and adaptable.\
 \
-**[Code repository](https://github.com/AUTOMCAS/gilded_rose_tech_test) (cmd/window + click to open in a new tab)**
+**[Code repository](https://github.com/AUTOMCAS/gilded_rose_tech_test) (CMD/CTRL + click to open in a new tab)**
 
 ### Features
 
